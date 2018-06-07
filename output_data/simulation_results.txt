@@ -1,0 +1,7 @@
+Input structure = backbone_random.pdb
+Number of steps for each temperature = 50.000000
+Number of temperature updates = 10.000000
+Changes in atom positions applied in percent = min: -1.000000 max: 1.000000
+Running time of the algorithm = 154.64906524599064 seconds
+Input energy = 444455022.596303
+New energy = 406208897.166175
